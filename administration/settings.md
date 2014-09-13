@@ -4,7 +4,7 @@ The settings page contains options that are used on your site. You probably won'
 
 ### Name Tab
 
-![Name Tab](/img/admin/settings-1.png)
+![Name Tab](../img/admin/settings-1.png)
 
 Field | Description
 ------------ | -------------
@@ -20,7 +20,7 @@ This tab allows you to specify contact details (both email and physical) that ar
 
 #### Email Addresses
 
-![Contact Tab](/img/admin/settings-2.png)
+![Contact Tab](../img/admin/settings-2.png)
 
 Field | Description
 ------------ | -------------
@@ -33,7 +33,7 @@ The [Members](#members) tab has more information on the options for controlling 
 
 #### Church/Community Contact Details
 
-![Community Settings](/img/admin/settings-3.png)
+![Community Settings](../img/admin/settings-3.png)
 
 Field | Description
 ------------ | -------------
@@ -50,10 +50,10 @@ The settings on this page indicate the features that are present in your OneBody
 
 | Field | Description | More Detail |
 | ------------ | ------------- | ------------- |
-| Friends | Enable mutual friendships. | [How Frienships Work](/getting_started/README.html#about-friends) |
-| Groups | Enable Groups. | [Groups](/groups/README.html) |
+| Friends | Enable mutual friendships. | [How Frienships Work](../getting_started/README.html#about-friends) |
+| Groups | Enable Groups. | [Groups](../groups/README.html) |
 | Check-in |  Allows members to check-in to designated classes | Coming Soon! |
-| Documents | If enabled, admins can upload files in a general area where members can browse and download them. | [Documents](/documents/README.html) |
+| Documents | If enabled, admins can upload files in a general area where members can browse and download them. | [Documents](../documents/README.html) |
 
 #### Sharing
 
@@ -83,13 +83,6 @@ This page contains allows you to configure member settings.
 | Custom Person Type | If enabled, admins can specify a custom person type along the lines of Elder, Deacon, etc. |
 | Adult Age | Age at which a person is considered old enough to use the site and be seen by others in the directory. |
 | Suffixes | Name Suffixes, used on the person basic detail page. |
-
-
-
-
-
-
-
 
 
 

@@ -4,22 +4,22 @@ When you first sign in to OneBody, you'll see the homepage, which shows the curr
 
 
 
-![Home Page](/img/getting-started/onebody-homepage.png)
-<small> [Help! I can't sign in.](/getting-started/logging_in.html) </small>
+![Home Page](../img/getting-started/onebody-homepage.png)
+<small> [Help! I can't sign in.](../getting-started/logging_in.html) </small>
 
 From the homepage you can share pictures, bible verses and post group messages.
 
 ### Sharing Pictures
 To share a picture, first you need to create an album. You can choose to share the album with the community, or just your friends.
 
-![Home Page](/img/getting-started/getting-started-1.png)
+![Home Page](../img/getting-started/getting-started-1.png)
 
 Once you have saved the album, **Select Photo** will upload more. Its that easy.
 
 ### Sharing Bible Verses
 Hit the Bible Verse icon to share a verse. You'll be prompted to add your verse, then you'll see:
 
-![Bible Verse](/img/getting-started/getting-started-3.png)
+![Bible Verse](../img/getting-started/getting-started-3.png)
 
 You can also add a comment to the verse, and your friends can comment as well.
 
@@ -34,9 +34,9 @@ Some notes about friends:
 
 ---
 ### What's next?
-1. Check your [profile](/profile/README.html) is complete.
-2. Concerned about privacy? So are we. Set your [privacy](/people/README.html#setting-privacy-options) options to control visibility.
-3. Join a [group](/groups/README.html)
+1. Check your [profile](../profile/README.html) is complete.
+2. Concerned about privacy? So are we. Set your [privacy](../people/README.html#setting-privacy-options) options to control visibility.
+3. Join a [group](../groups/README.html)
 
 ---
 

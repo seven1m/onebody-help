@@ -9,7 +9,7 @@ Within OneBody, you can configure different levels of access (known as roles) to
 
 The most restrictive role is that of a limited access member, and the most open that of a Super Administrator. The following diagram illustrates the effect of granting specific roles to your members, and some of their characteristics.
 
-![Roles](/img/planning/understanding-security-1.png)
+![Roles](../img/planning/understanding-security-1.png)
 
 ## Understanding Member Accounts
 

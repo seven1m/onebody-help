@@ -16,17 +16,17 @@ In addition to the generally available fields, the profile supports a number of 
 
 The *Send a password setup email to this user* button automatically generates a verification email to the users email address.
 
-You can also specify [options](/administration/settings.html#members) for how member personal data updates should be handled.
+You can also specify [options](../administration/settings.html#members) for how member personal data updates should be handled.
 
 ### People Management Roles
 
 The roles below can be granted to members who need to view or update personal information. Used together or individually, they can ensure that more than one person can update personal data in your church.
 
 * View Hidden Profiles - will allow you to view any profiles marked as Hidden (e.g. Children)
-* View Hidden Properties - allows viewing of details members may have hidden through [privacy](/people/README.html#setting-privacy-options) (such as birthday),
+* View Hidden Properties - allows viewing of details members may have hidden through [privacy](../people/README.html#setting-privacy-options) (such as birthday),
 * Edit Profiles - Allows you to update a profile.
 
-See the [Managing Admins](/administration/managing_admins.html) section for more detail on these settings.
+See the [Managing Admins](../administration/managing_admins.html) section for more detail on these settings.
 
 #### Relationships
 
@@ -40,7 +40,7 @@ The Relationships page allows you to record family connections in your community
 6. Select *Add Selected* button.
 
 
-![Relationships](/img/admin/admin-people-1.png)
+![Relationships](../img/admin/admin-people-1.png)
 
 
 Once a relationship is saved, you can view it on the relationships page. You can also **reciprocate**.  Reciprocation  creates a relationship record, but attached to the other person in the relationship.
@@ -51,7 +51,7 @@ To reciprocate:
 2. Select the individual to reciprocate with
 3. Hit *Reciprocate*
 
-![Reciprocate Relationships](/img/admin/admin-people-2.png)
+![Reciprocate Relationships](../img/admin/admin-people-2.png)
 
 An inward relationship entry will appear for Fred, and this will also create a relationship record for Jane Wright.
 
@@ -64,13 +64,13 @@ To have OneBody attempt to create family relationships for you:
 3. Make any adjustments needed to the relationship type, and;
 4. Hit *Create Family Relationships*.
 
-![Family Relationships](/img/admin/admin-people-3.png)
+![Family Relationships](../img/admin/admin-people-3.png)
 
 > **hint** If there isn't a relationship between two people, choose *none* as the relationship type.
 
 This will automatically create relationship records for the individuals selected, as well as records at the family level.
 
-![Family Relationships](/img/admin/admin-people-4.png)
+![Family Relationships](../img/admin/admin-people-4.png)
 
      clarify add new person procedure, just get users to sign up?
      check with tim how the relationships page is used at his church

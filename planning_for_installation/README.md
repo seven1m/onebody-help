@@ -39,7 +39,7 @@ The way you present OneBody in your congregation is key to its success. Think of
 
 OneBody is best when sharing features - friends, photos, verses & documents - are switched *on*.
 
-** Do think about [security](/planning_for_installation/understanding_security_roles_and_users.html)**.
+** Do think about [security](../planning_for_installation/understanding_security_roles_and_users.html)**.
 
 Keeping people safe online is important.
 
@@ -56,7 +56,7 @@ Answer: All sorts! The exact makeup of your team will vary, but consider the fol
 5. Change agents. You probably know these people already - because they are the ones who like to keep changing things! They are key allies in broadcasting the OneBody message.
 5. ... and some IT support probably wouldn't go amiss.
 
-Church.io can help too. Contact Us.
+Church.io can help too. [Contact Us](http://church.io)_.
 
 ---
 

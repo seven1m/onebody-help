@@ -4,9 +4,9 @@
 
 These settings control privacy options that are applied at a system level.
 
->**info** For a full view of privacy, also refer to [privacy for members](/people/README.html#setting-privacy-options).
+>**info** For a full view of privacy, also refer to [privacy for members](../people/README.html#setting-privacy-options).
 
-![Privacy Settings](/img/admin/settings-7.png)
+![Privacy Settings](../img/admin/settings-7.png)
 
 Selecting the allow picture comments field will allow members to post comments to a picture.
 
@@ -28,7 +28,7 @@ The following items can be marked visible (or not :):
 
 The external services page allows you to configure links to external websites or setup configuration values for external providers.
 
-![External Services](/img/admin/settings-6.png)
+![External Services](../img/admin/settings-6.png)
 
 | Field | Description |
 | -- | -- |
@@ -44,7 +44,7 @@ Hit Reload Settings to force a refresh of all settings for OneBody.
 
 
     News: how often? Is it configurable, does it still happen?
-    Create catch-all route on mailgun?
+    Create catch-all route on mailgun, what does that do?
 
 
 

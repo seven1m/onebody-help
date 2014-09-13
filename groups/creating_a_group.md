@@ -8,7 +8,7 @@ There are four tabs you can complete to create your group.
 
 The Details tab records basic data about your group:
 
-![Create a group](/img/groups/groups-3.png)
+![Create a group](../img/groups/groups-3.png)
 
 
 >**Info** Look for a broad category to put your group in.
@@ -17,7 +17,7 @@ If you create the group, you automatically become an adminstrator for the group.
 
 The Meets tab to let others know about where the group gathers:
 
-![Group-meeting-info](/img/groups/groups-4.png)
+![Group-meeting-info](../img/groups/groups-4.png)
 
 
 > **Success** Entering a physical address causes a streetmap to be displayed on your group.
@@ -42,7 +42,7 @@ The features tab controls which OneBody features you want to implement for your 
 
 **Email** will allow emails to be sent to and from your group email address. You can also share pictures and record attendance for your particular group.
 
-![Group-meeting-info](/img/groups/groups-5.png)
+![Group-meeting-info](../img/groups/groups-5.png)
 
 Groups also come with security enabled. The security tab holds three settings:
 
@@ -53,12 +53,11 @@ Groups also come with security enabled. The security tab holds three settings:
 You can also share files with the group by uploading them.
 
 
-
 That's it! You can now post messages, share pictures, and track attendance for your groups!
 
-![Completed group](/img/groups/groups-6.png)
+![Completed group](../img/groups/groups-6.png)
 
-If you're a group leader, you might want to head on over to [Looking after Groups].
+If you're a group leader, you might want to head on over to [Looking after Groups](../administration/looking_after_groups.html).
 
     How do you get a value in the "leader" dropdown?
     Anything special about the email address (eg.format

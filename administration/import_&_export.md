@@ -12,7 +12,7 @@ Importing is particularly useful if you are synchronising data from another syst
 > <small> Excel documents can be exported as csv from the File -> Save As menu. Make sure to omit any header rows.</small>
 
 
-![Import Settings](/img/admin/import-export-1.png)
+![Import Settings](../img/admin/import-export-1.png)
 
 Upload your file using the browse dialog.
 
@@ -21,11 +21,11 @@ Upload your file using the browse dialog.
 
 If the **attempt to match existing records by name** check box is selected, OneBody will search the last and first name fields for a match. If one is found the record will not be selected to be imported.
 
-The **visibility/access** section indicates the defaults the member will be created with. See [looking after people](administration/looking_after_people.html) for more.
+The **visibility/access** section indicates the defaults the member will be created with. See [looking after people](../administration/looking_after_people.html) for more.
 
 To schedule imports to run regularly (eg. nightly) use the [UpdateAgent](](https://github.com/churchio/onebody-updateagent).
 
-![Import Settings](/img/admin/import-export-2.png)
+![Import Settings](../img/admin/import-export-2.png)
 
 Select Import Selected People to complete the import process. A confirmation screen will appear confirming the newly imported records.
 

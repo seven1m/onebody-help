@@ -8,6 +8,7 @@
     },
     "author": "Justin Lane <justinlane99@hotmail.com>",
     "dependencies": {
+       "gitbook-plugin-autocover": "0.5.0",
         "gitbook-plugin-anchors": "0.3.0",
         "gitbook-plugin-richquotes": "0.0.5",
     }

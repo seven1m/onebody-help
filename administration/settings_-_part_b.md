@@ -2,7 +2,7 @@
 
 ## Locale
 
-![Locale Tab](/img/admin/settings-4.png)
+![Locale Tab](../img/admin/settings-4.png)
 
 
 | Field | Description |
@@ -15,7 +15,7 @@
 
 This tab allows you to set the default date and time formats throughout the site. Defaults here should match the dates and formats the software will predominantly be used in.
 
-![Formats Tab](/img/admin/settings-5.png)
+![Formats Tab](../img/admin/settings-5.png)
 
 | Field | Description |
 | -- | -- |

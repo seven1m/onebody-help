@@ -9,7 +9,7 @@ You can search by:
 * email address
 * phone number
 
-![Online Directory Search](/img/directories/directories-1.png)
+![Online Directory Search](../img/directories/directories-1.png)
 
 Select the *name* or *family name* to get more detail.
 

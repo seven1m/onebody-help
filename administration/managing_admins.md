@@ -5,18 +5,18 @@ Use this page to give any member administrative privileges they need to perform 
 
 This page allows you to:
 
-1. [Add a member as an administrator](/administration/managing_admins.html#add-a-member), and specify particular roles
-2. Create an [administrative template](http://localhost:8004/administration/managing_admins.html#templates) with particular permissions.
-3. Designate [Group Administrators](administration/managing_admins.html#designating-group-administrators).
+1. [Add a member as an administrator](../administration/managing_admins.html#add-a-member), and specify particular roles
+2. Create an [administrative template](../administration/managing_admins.html#templates) with particular permissions.
+3. Designate [Group Administrators](../administration/managing_admins.html#designating-group-administrators).
 
 ### Add a member
 Search for an individual using the Name dialog. When you enter a name, OneBody brings back all families and people that meet that name. Select one (or multiple) members who you would like to give administrative roles to.
 
-![Searching for an Administrator](/img/admin/managing-admins-1.png)
+![Searching for an Administrator](../img/admin/managing-admins-1.png)
 
 Click the individual's name. You'll be presented with a list of roles that you can add to the member. Select the relevant roles you would like to add, by selecting the checkboxes and saving.
 
-![Adding an Administrator](/img/admin/managing-admins-2.png)
+![Adding an Administrator](../img/admin/managing-admins-2.png)
 
 ### Templates
 
@@ -24,11 +24,11 @@ A template is a pre-defined listing of roles, which you attach to a member, or n
 
 Select **Create a new admin template** from the **Templates** section. You'll be prompted for a name. Enter the name (in this case, "Document Administrators") and select the green Add Template button.
 
-![Adding a Template](/img/admin/managing-admins-3.png)
+![Adding a Template](../img/admin/managing-admins-3.png)
 
 You'll see the new template has been created in the Templates section. Select the name of the template, and then select all the roles that you would like to belong to the template.
 
-![Adding a user to a Template](/img/admin/managing-admins-4.png)
+![Adding a user to a Template](../img/admin/managing-admins-4.png)
 
 You can then begin to assign people by searching for their name, checking their name, and selecting "Add Selected". You can repeat the process to add other people.
 
@@ -39,11 +39,11 @@ You can then begin to assign people by searching for their name, checking their 
 A core concept of OneBody is the *group*. A typical church could have many groups, some of whom you may not want to give *all* group administration rights to. For this reason, a specific page has been created for designating Group Administrators. Select the Manage Group Administrators link from the Group Administrators section, and on the next page, select *edit* next to the group you want.
 
 
-![Adding a Group Administrator ](/img/admin/managing-admins-5.png)
+![Adding a Group Administrator ](../img/admin/managing-admins-5.png)
 
 Next to the member you want to make administrator, select the "promote to administrator" icon. A group can have more than one active administrator.
 
-> Note. These pages detail the mechanics of how to add roles to members. For advice on designing your role setup, see the [Planning for OneBody](/planning_for_installation/README.html) section.
+> Note. These pages detail the mechanics of how to add roles to members. For advice on designing your role setup, see the [Planning for OneBody](../planning_for_installation/README.html) section.
 
 ### Administrative Roles
 

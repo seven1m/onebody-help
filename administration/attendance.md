@@ -5,7 +5,7 @@ The attendance page allows you to administer attendance records for groups. Usin
 * find records using various filters
 * remove attendance records
 
-![Attendance](/img/admin/attendance.png)
+![Attendance](../img/admin/attendance.png)
 
 | Field | Description |
 | -- | -- |

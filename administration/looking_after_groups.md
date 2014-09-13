@@ -14,7 +14,7 @@ To record attendance:
 
 You'll see:
 
- ![Attendance Tracking](/img/groups/looking-after-groups-1.png)
+ ![Attendance Tracking](../img/groups/looking-after-groups-1.png)
 
 
 By default, OneBody will bring back the current members of the group. Simply select the members you want to record and Save Attendance. Its that easy.
@@ -25,12 +25,12 @@ Then:
 
 * If you need to record additional attendees, just go back to the attendance screen and add them. Any attendees previously saved will be retained.
 
-* Head on over to [Attendance](/administration/attendance.html) to report attendees per date.
+* Head on over to [Attendance](../administration/attendance.html) to report attendees per date.
 
 
 ## Advanced Group Options
 
- ![Advanced Group Options](/img/groups/looking-after-groups-2.png)
+ ![Advanced Group Options](../img/groups/looking-after-groups-2.png)
 
 **Membership Methods**
 

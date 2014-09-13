@@ -5,7 +5,7 @@ You can access Your Profile by clicking the *Profile* menu option.
 
 ### Your Profile
 
-![Annotated Profile](/img/profile/jim-wright-annotated-profile.png)
+![Annotated Profile](../img/profile/jim-wright-annotated-profile.png)
 
 
 ### Changing your Profile
@@ -28,7 +28,7 @@ If you'd like your community to know about your business, then you can add the d
 You might not want to share all your details with everyone that uses OneBody, and that's completely OK with us. You can choose what to share with *privacy*
 settings.
 
-![Privacy](/img/profile/privacy.jpg)
+![Privacy](../img/profile/privacy.jpg)
 
 If you don't want to appear to the commmunity at all, deselect the  *Visible* check box. This will cause you not to appear in any directory searches. Adults can set the visibilty option at a family level.
 
@@ -40,7 +40,7 @@ At a personal level, you can select to hide your Anniversary, Address, Home Phon
 
 If you happen to change your email address, you'll need to update your address on the Email Settings page.
 
-![Email Settings](/img/profile/email-settings.png)
+![Email Settings](../img/profile/email-settings.png)
 
 > **Caution** Change primary email address = Change your signin. Next signin use new email address.
 
