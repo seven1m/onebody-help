@@ -22,7 +22,7 @@ Field | Description
 
 Next:
 
-* Head over to the [admin dashboard](../administration/the_admin_dashboard.html#the-admin-dashboard) to familiarise yourself with the interface.
+* Head over to the [admin dashboard](../administration/README.html#the-admin-dashboard) to familiarise yourself with the interface.
 * Configure your email and contact settings by heading to the [contact section](../administration/settings.html#contact-tab).
 * Make sure all the [features](../administration/settings.html#features) are enabled.
 
