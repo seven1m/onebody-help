@@ -42,7 +42,7 @@ If you happen to change your email address, you'll need to update your address o
 
 ![Email Settings](../img/profile/email-settings.png)
 
-> **Caution** Change primary email address = Change your signin. Next signin use new email address.
+> **Caution** Primary email address change = Signin Change. Next signin use your updated email address.
 
 You can also set to turn emails off (or on) for a specific group.
 

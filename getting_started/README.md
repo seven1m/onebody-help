@@ -34,9 +34,9 @@ Some notes about friends:
 
 ---
 ### What's next?
-1. Check your [profile](../profile/README.html) is complete.
+1. Check your [profile](../people/README.html) is complete.
 2. Concerned about privacy? So are we. Set your [privacy](../people/README.html#setting-privacy-options) options to control visibility.
-3. Join a [group](../groups/README.html)
+3. Join a [group](../groups/README.html#joining-a-group)
 
 ---
 
