@@ -1,7 +1,8 @@
 {
     "title": "All About OneBody",
     "plugins": [
-        "anchors"
+        "anchors",
+        "richquotes"
     ],
     "pluginsConfig": {},
     "links": {
