@@ -5,7 +5,7 @@ When you first sign in to OneBody, you'll see the homepage, which shows the curr
 
 
 ![Home Page](../img/getting-started/onebody-homepage.png)
-<small> [Help! I can't sign in.](../getting-started/logging_in.html) </small>
+<small> [Help! I can't sign in.](../getting_started/logging_in.html) </small>
 
 From the homepage you can share pictures, bible verses and post group messages.
 
