@@ -1,4 +1,4 @@
-# Introduction
+# Welcome!
 
 Hi! We're glad you're here reading the user documentation.
 

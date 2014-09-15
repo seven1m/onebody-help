@@ -9,6 +9,7 @@ Well, its on its way. In future releases, we'll be looking at:
 * Expand the Planning for OneBody section to include:
     - Some cheat sheets you can use with your members
     - An example of a plan for implementation
+    - How to handle personal data updates.
 
 
 

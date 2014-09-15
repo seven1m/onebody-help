@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Welcome!](README.md)
 * [Getting Started](getting_started/README.md)
    * [for Administrators](getting_started/for-administrators.md)
    * [Logging In](getting_started/logging_in.md)
