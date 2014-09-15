@@ -14,7 +14,7 @@ If you're wanting to get OneBody up and running quickly in a non-production envi
 ### Useful things to know
 Throughout the guides, we use the term "member", instead of person, or user. We think the term member more accurately captures our community focus.
 
-We've used some standard terms throughout these guides. You'll find them in the [glossary](../GLOSSARY.html).
+We've used some standard terms throughout these guides. You'll find them in the [glossary](GLOSSARY.html).
 
 If you'd like to contact us, send a message via  [IRC](https://webchat.freenode.net/?channels=#church.io) or our [Google Group](http://groups.google.com/group/churchio). Feedback is always welcome.
 
