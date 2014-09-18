@@ -30,6 +30,6 @@ The attendance page allows you to administer attendance records for groups. Usin
 
 Blue text on the headings indicates that column is sortable.
 
-You can export the details of the screen using the Export to File button. This will create a csv file of the selected attendance records.
+You can export the details of the screen using the Export to File button. This will create a CSV file of the selected attendance records.
 
 Use the trash icon to remove a record. You will be prompted to confirm.

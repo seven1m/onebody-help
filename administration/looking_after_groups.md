@@ -48,7 +48,7 @@ There's not much to say about this group type, as it works about like you'd expe
 
 ### Linked Group
 
-First, let's talk a bit about [UpdateAgent](https://github.com/churchio/onebody-updateagent). UpdateAgent allows you to load a csv file of person and family data.
+First, let's talk a bit about [UpdateAgent](https://github.com/churchio/onebody-updateagent). UpdateAgent allows you to load a CSV file of person and family data.
 
 ** The "Classes" Field **
 

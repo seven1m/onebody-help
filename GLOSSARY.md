@@ -1,6 +1,6 @@
 #Glossary
 
-#### csv
+#### CSV
 
 Comma Separated Values file commonly used for transfering tabular data. [See here.](http://en.wikipedia.org/wiki/Comma-separated_values)
 
