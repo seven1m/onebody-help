@@ -1,6 +1,6 @@
 # Documents
 
-You can also provide documents for download for members of your community.  You can use this function to share sermon notes, administrative templates, pdf's - any sort of document you can think of!
+You can provide documents for download by members of your community.  You can use this function to share sermon notes, study questions, administrative templates, pdf's - any sort of document you can think of!
 
 >  **Note** In order to upload documents, a member must have the *Manage Documents* permission.
 
