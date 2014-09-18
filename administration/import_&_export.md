@@ -3,13 +3,14 @@
 OneBody provides a facility to upload and download files of group and people information. You can upload a file of people, and download files of people and groups.
 
 ## Export
-You can download in XML (eXtensible Markup Language) or csv format. If you're unsure, select csv.
+You can download in XML (eXtensible Markup Language) or CSV format. If you're unsure, select CSV.
 
 From the admin dashboard, select which file you would like to download. That's it!
 
 ## Import
-Importing is particularly useful if you are synchronising data from another system or uploading a file of details for the first time. Import supports csv only.
-> <small> Excel documents can be exported as csv from the File -> Save As menu. Make sure to omit any header rows.</small>
+Importing is particularly useful if you are synchronising data from another system or uploading a file of details for the first time. Import supports CSV only.
+
+> Excel documents can be exported as CSV from the File -> Save As menu. Make sure to omit any header rows.
 
 
 ![Import Settings](../img/admin/import-export-1.png)
