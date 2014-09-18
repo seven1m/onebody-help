@@ -10,8 +10,8 @@ In addition to the generally available fields, the profile supports a number of 
 | Child | Basics | If a member is designated as a child, then their profile will automatically be Hidden. |
 | Roles | Roles | Use these informational fields to note a members' designation. Roles selected here will appear at the top of the profile and in the directory pages. |
 | Can Sign in | Visibility | Allows a user to sign in. Useful if you wish to pre-load records but prevent signin to the site until a specified time. |
-| Visible to everyone | Visibility | ? |
-| Visible on printed directory | Visibility | Controls whether a record will appear in the pdf version of the directory. |
+| Visible to everyone | Visibility | Controls whether this person will be visible to regular users of the site. |
+| Visible on printed directory | Visibility | Controls whether a record will appear in the PDF version of the directory. |
 | Full Access | Visibility | If selected, a user will have full access to the site, otherwise the profile will be restricted when the user signs in. |
 
 The *Send a password setup email to this user* button automatically generates a verification email to the users email address.
@@ -55,7 +55,7 @@ To reciprocate:
 
 An inward relationship entry will appear for Fred, and this will also create a relationship record for Jane Wright.
 
-#####Family Relationships
+##### Family Relationships
 
 To have OneBody attempt to create family relationships for you:
 
@@ -72,10 +72,8 @@ This will automatically create relationship records for the individuals selected
 
 ![Family Relationships](../img/admin/admin-people-4.png)
 
-     clarify add new person procedure, just get users to sign up?
-     check with tim how the relationships page is used at his church
-     what does visible to everyone do?
-     Should add relationship be search?
-     Clarify what reciprocate does
-
-
+     TODO
+     * clarify add new person procedure, just get users to sign up?
+     * explain use of Relationships feature
+     * Should add relationship be search?
+     * Clarify what reciprocate does

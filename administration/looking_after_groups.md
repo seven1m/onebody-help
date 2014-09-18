@@ -64,5 +64,4 @@ If you select a group for the "Parents of" field when editing a group, then memb
 
  > **Danger** The Hide and Delete Group buttons - do what they say :).
 
-<p>
 ---
