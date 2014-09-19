@@ -20,7 +20,7 @@ You can't go it alone, even if you're the one doing the bulk of the work. Having
 
 Studies show that software implementations that have senior support are more likely to succeed.
 
-**Get a Strategy.**
+**Get a Strategy**.
 
 It doesn't have to be big, but it should articulate why you want OneBody in your church.
 
@@ -35,11 +35,11 @@ Those who fail to plan, plan to fail.
 
 The way you present OneBody in your congregation is key to its success. Think of one or two key messages you'd like folks to remember, and keep saying them.
 
-** Do turn on features**.
+**Do turn on features**.
 
 OneBody is best when sharing features - friends, photos, verses & documents - are switched *on*.
 
-** Do think about [security](../planning_for_installation/understanding_security_roles_and_users.html)**.
+**Do think about [security](../planning_for_installation/understanding_security_roles_and_users.html)**.
 
 Keeping people safe online is important.
 
@@ -56,7 +56,7 @@ Answer: All sorts! The exact makeup of your team will vary, but consider the fol
 5. Change agents. You probably know these people already - because they are the ones who like to keep changing things! They are key allies in broadcasting the OneBody message.
 5. ... and some IT support probably wouldn't go amiss.
 
-Church.io can help too. [Contact Us](http://church.io)_.
+Church.io can help too. [Contact Us](http://church.io).
 
 ---
 
