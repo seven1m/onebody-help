@@ -31,8 +31,3 @@ To schedule imports to run regularly (eg. nightly) use the [UpdateAgent](](https
 Select Import Selected People to complete the import process. A confirmation screen will appear confirming the newly imported records.
 
 > **info** OneBody will update the existing record if it finds a match on email address.
-
-    TODO
-    * talk about required fields
-    * list all available fields
-    * go into more detail about how existing records are matched (legacy_id, email, name)

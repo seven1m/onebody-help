@@ -14,7 +14,7 @@ We've assumed that most readers are familiar with basic details like name and ad
 
 * The description field shows beside your name in your profile, and also appears in the online directory.
 
-* Your anniversary is????
+* Record the date of your wedding anniversary in the "Anniversary" field.
 
 > **Hint** If you're entering page URL's, prefix with "http://" so OneBody recognises them.
 
@@ -52,8 +52,3 @@ An alternate address can be added if you don't want OneBody emails to go to your
 
 ### Updating your password
 To change your password, navigate to the Password page. You'll need to enter your password twice, and passwords have a miniumum of five characters.
-
-    Whats anniversary for....?
-    Does the About field show up anywhere?
-       Why have two places you can change an email address (basics tab and Email tab? If someone is changing their email address in the basics page, they might not realise that this also changes their login)
-    With the password page, should we make people re-enter their old password?

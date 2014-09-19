@@ -22,6 +22,9 @@ Uploading documents is as simple as:
 3. Giving the document a name and description
 4. Selecting the file, and saving.
 
+> **info** The maximum file size is 25 MB.
+
+
 ![document properties](../img/documents/documents-3.png)
 
 > **Success** A successful upload will create a new document page.
@@ -38,6 +41,3 @@ If you need to edit the folder, name or description associated with the file, yo
 
 <p>
 ---
-
-
-    any size limits?

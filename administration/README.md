@@ -6,6 +6,15 @@ The admin dashboard is the control centre for your application. From here, you c
 
 ![Admin Dashboard](../img/admin/admin-dash-1.png)
 
+When you first enter the dashboard, you'll see metrics, which notify you of actions you need to take.
+
+* [Profile Updates](#profile-updates)
+* [Changed Emails](#changed-emails)
+* Sync Errors - Coming Soon!
+* [Groups Pending Approval](#groups-pending-approval)
+* [Group Membership Requests](#group-membership-requests)
+* Deleted People - Coming Soon!
+
 ### Profile Updates
 
 If you require administrator approval for personal information updates, you'll need to come to this screen to approve them.
@@ -49,16 +58,3 @@ Anyone with a group administrator permission is able to approve members to join 
 At the Group Membership Requests page, select the request button for the group you want. Hitting **Accept** will allow the member to join the group. You can remove a request by hitting the **ignore** button.
 
 ![Group Approval](../img/admin/admin-dash-6.png)
-
-
-    what do you call the blue boxes at the top of the screen (buttons?)
-    what's the purpose of the mark complete in the personal data updates section?
-
-
-
-
-
-
-
-
-

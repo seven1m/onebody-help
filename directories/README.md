@@ -21,6 +21,4 @@ Select Business Directory to view Business listings. The same search criteria ap
 
 Select Printed Directory to have a custom directory pdf sent to your OneBody email address.
 
-     Get a pdf of the member directory here.
-
 

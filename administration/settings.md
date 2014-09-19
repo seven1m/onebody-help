@@ -80,15 +80,6 @@ This page contains allows you to configure member settings.
 | Updates must be Approved | If enabled, all changes to a user's "basic" information (phone, address, etc.) will await approval from an admin before being applied. |
 | Sign Up | If enabled, potential members can create their own login account on the site. It is highly recommended that you also enter an approval email address in the next field so that you can review signups before allowing login. |
 | Sign Up Email | Where to send pending sign up requests (must be admin; leave blank to auto-approve). |
-| Custom Person Type | If enabled, admins can specify a custom person type along the lines of Elder, Deacon, etc. |
+| Custom Person Type | If enabled, admins can add a custom role to the Roles tab for each person.  |
 | Adult Age | Age at which a person is considered old enough to use the site and be seen by others in the directory. |
 | Suffixes | Name Suffixes, used on the person basic detail page. |
-
-
-
-
-    What's the difference between a site and a community?
-    eg. do multiple sites belong to one community?
-    what happens with tech support email?
-
-

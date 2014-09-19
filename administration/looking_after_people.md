@@ -1,5 +1,7 @@
 # Looking after People
 
+>**info** This page assumes you have administrative rights for *people*.
+
 Unless you have a small congregation, you will probably want to devolve some responsibility for managing people records to others in your church. This chapter provides some help to make this happen.
 
 ### Adding People Manually
@@ -8,7 +10,6 @@ In addition to the generally available fields, the profile supports a number of 
 | Field | Tab |Description |
 | -- | -- | -- |
 | Child | Basics | If a member is designated as a child, then their profile will automatically be Hidden. |
-| Roles | Roles | Use these informational fields to note a members' designation. Roles selected here will appear at the top of the profile and in the directory pages. |
 | Can Sign in | Visibility | Allows a user to sign in. Useful if you wish to pre-load records but prevent signin to the site until a specified time. |
 | Visible to everyone | Visibility | Controls whether this person will be visible to regular users of the site. |
 | Visible on printed directory | Visibility | Controls whether a record will appear in the PDF version of the directory. |
@@ -18,15 +19,15 @@ The *Send a password setup email to this user* button automatically generates a 
 
 You can also specify [options](../administration/settings.html#members) for how member personal data updates should be handled.
 
-### People Management Roles
 
-The roles below can be granted to members who need to view or update personal information. Used together or individually, they can ensure that more than one person can update personal data in your church.
+### Roles
 
-* View Hidden Profiles - will allow you to view any profiles marked as Hidden (e.g. Children)
-* View Hidden Properties - allows viewing of details members may have hidden through [privacy](../people/README.html#setting-privacy-options) (such as birthday),
-* Edit Profiles - Allows you to update a profile.
+The roles tab contains check boxes to note a members' designation. Roles selected here will appear at the top of the profile and in the directory pages.
 
-See the [Managing Admins](../administration/managing_admins.html) section for more detail on these settings.
+There are four predefined roles: Member, Staff, Elder, and Deacon. You can enable the custom type through the [settings page](../administration/settings.html#members). Hit the dropdown list to create your custom role.
+
+![Roles](../img/admin/admin-people-5.png)
+
 
 #### Relationships
 
@@ -72,8 +73,14 @@ This will automatically create relationship records for the individuals selected
 
 ![Family Relationships](../img/admin/admin-people-4.png)
 
-     TODO
-     * clarify add new person procedure, just get users to sign up?
-     * explain use of Relationships feature
-     * Should add relationship be search?
-     * Clarify what reciprocate does
+
+### People Management Roles
+
+The roles below can be granted to members who need to view or update personal information. Used together or individually, they can ensure that more than one person can update personal data in your church.
+
+* View Hidden Profiles - will allow you to view any profiles marked as Hidden (e.g. Children)
+* View Hidden Properties - allows viewing of details members may have hidden through [privacy](../people/README.html#setting-privacy-options) (such as birthday),
+* Edit Profiles - Allows you to update a profile.
+
+See the [Managing Admins](../administration/managing_admins.html) section for more detail on these settings.
+

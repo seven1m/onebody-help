@@ -29,7 +29,7 @@ Friends are members of the community that you know and would like to share more 
 Some notes about friends:
 
 * Your friends activity will appear on your timeline, and vice versa.
-* You're automatically friends with anyone in your groups(?)
+* You're automatically friends with anyone in your groups.
 
 
 ---
@@ -39,10 +39,6 @@ Some notes about friends:
 3. Join a [group](../groups/README.html#joining-a-group)
 
 ---
-
-     How long does remember me last?
-     Need some input on friends...
-
 
 
 

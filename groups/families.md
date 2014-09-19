@@ -47,8 +47,7 @@ Select **Move to Family**. You will be prompted to confirm.
 
 <p>
 ---
-     Link to add a person
-     Sort out add new person navigation (changed by #235)
+
 
 
 
