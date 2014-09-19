@@ -43,9 +43,6 @@ The external services page allows you to configure links to external websites or
 Hit Reload Settings to force a refresh of all settings for OneBody.
 
 
-    News: how often? Is it configurable, does it still happen?
-    Create catch-all route on mailgun, what does that do?
-
 
 
 

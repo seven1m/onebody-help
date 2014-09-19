@@ -68,6 +68,7 @@ Here's a full list of the roles that can be given to a member.
 | Export Data | Export all site data to XML or CSV. |
 | Assign Checkin Cards | Assign card numbers to families. |
 | Manage Checkin | Manage all aspects of checkin, including setup and configuration. |
+| Run Reports | Access the Reporting Dashboard, to run various reports.|
 
 
 

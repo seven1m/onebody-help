@@ -28,7 +28,3 @@ Under this scenario, members can sign themselves up for an account. The account 
 
 
 Under all of these strategies you can choose to allow or prevent self signups on an ongoing basis by using the sign up flag on the Members page. You can also choose to set an approval email address so you can review signups before allowing login. If this email is blank then the signup will be automatically approved.
-
-
-     Should we revisit strong passwords (5 char seems short)?
-

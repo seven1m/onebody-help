@@ -59,7 +59,3 @@ That's it! You can now post messages, share pictures, and track attendance for y
 
 If you're a group leader, you might want to head on over to [Looking after Groups](../administration/looking_after_groups.html).
 
-    How do you get a value in the "leader" dropdown?
-    Anything special about the email address (eg.format
-    doesn't seem to allow full stops)
-    Link to looking after groups

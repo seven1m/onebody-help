@@ -63,5 +63,3 @@ Church.io can help too. [Contact Us](http://church.io).
 > Coming Soon: Examples of implementation plans to help your church.
 
 
-    Aren't you just another Facebook?
-

@@ -26,12 +26,3 @@ Finally, we've assumed that you have:
 * an available installation of OneBody
 
 ... because we won't be covering that in these guides.
-
-
-
-
-
-    Don't forget to fix
-    Can you delete a person
-    the "URL" page is now called external services
-    What's the anniversary field intended for?.
