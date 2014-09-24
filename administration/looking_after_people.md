@@ -19,6 +19,28 @@ The *Send a password setup email to this user* button automatically generates a 
 
 You can also specify [options](../administration/settings.html#members) for how member personal data updates should be handled.
 
+### Deleting People
+
+You can also remove to remove people records from OneBody. Members with the "Edit Profiles" security role will be able to delete people records.
+
+To remove a person record, access the family, and select the "delete" icon.
+
+![delete person](../img/admin/admin-people-6.png)
+
+Deletion of people is a serious business. So,to prevent accidental deletion, when you delete people from a family, an administrator needs to approve the deletion from the database.
+
+When you hit the admin dashboard, you'll see that the Deleted person metric now has something to do!
+
+![Delete a person](../img/admin/admin-people-7.png)
+
+The Deleted People Screen will then appear.
+
+
+Select the person, and then use the green **Undelete selected people** button to restore the person record.
+
+![Deleted People](../img/admin/admin-people-8.png)
+
+The Purge button will officially remove the selected person from the database. Select the "Purge family when empty" select box to also delete any empty family records.
 
 ### Roles
 
