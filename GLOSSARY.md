@@ -9,3 +9,7 @@ We use the term "member" throughout the guides, instead of person, or user, beca
 ## metrics
 
 Coloured boxes with action text that appear throughout OneBody. Click 'em to go somewhere!
+
+## empty family
+
+a family record with no associated people.

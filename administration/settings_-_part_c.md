@@ -40,7 +40,7 @@ The external services page allows you to configure links to external websites or
 
 ## Advanced
 
-Hit Reload Settings to force a refresh of all settings for OneBody.
+* Hit Reload Settings to force a refresh of all settings for OneBody.
 
 
 

@@ -15,6 +15,8 @@ The Details tab records basic data about your group:
 
 If you create the group, you automatically become an adminstrator for the group.
 
+Youll need to add some members to the group before you can nominate a group leader.
+
 The Meets tab to let others know about where the group gathers:
 
 ![Group-meeting-info](../img/groups/groups-4.png)
