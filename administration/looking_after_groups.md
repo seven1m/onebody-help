@@ -64,4 +64,6 @@ If you select a group for the "Parents of" field when editing a group, then memb
 
  > **Danger** The Hide and Delete Group buttons - do what they say :).
 
+You might also want to check out the [Max Size of a Small Group](../administration/settings.html#sharing) field for how activity in this group affects group members homepages.
+
 ---

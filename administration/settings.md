@@ -67,6 +67,7 @@ OneBody enables sharing of news, pictures and verses.
 | News by User | Allow users to submit news content |
 | Pictures | Enable Picture Sharing |
 | Verses | Enable Verse Sharing |
+| Max Size of a "Small Group" | People in groups with this many members or fewer are considered in a "small group" together, and can easily share content with one another via the homepage.|
 
 ### Members
 

@@ -1,6 +1,7 @@
 # Welcome!
 
-Hi! We're glad you're here reading the user documentation.
+OneBody is a group based, private social network for your church. OneBody helps to faciliate connection in and around your church. This site documents the features and functions you've got to choose from.
+
 
 > <small> Not looking for this? Try [install docs](https://github.com/churchio/onebody/wiki/Installation) or [the wiki](https://github.com/churchio/onebody/wiki).</small>
 
