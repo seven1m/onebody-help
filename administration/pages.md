@@ -43,4 +43,4 @@ To show:
 * the Tech Support Email:[[contact|tech_support_email]]
 * the Adult Age:[[system|adult_age]]
 
->**note** all field and tabs must be **lowercase**.
+> **note** all field and tabs must be **lowercase**.

@@ -15,6 +15,7 @@
    * [Reporting](administration/reporting.md)
    * [Looking after People](administration/looking_after_people.md)
 * [Profile](people/README.md)
+   * [Friends](people/friends.md)
 * [Groups](groups/README.md)
    * [Creating a Group](groups/creating_a_group.md)
    * [Looking after Groups](administration/looking_after_groups.md)

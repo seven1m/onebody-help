@@ -11,26 +11,26 @@ A family in the OneBody sense is a household, or all people living at one addres
 * Parents, children and extended family
 
 
+## Looking after Families
 
-## Adding a New Family
+When you [add a new person](../administration/looking_after_people.html#adding-people-manually), you also add a new *family* record.
 
->**Comment** You need to be an Administrator to add a new family.
-
-1. From the Directory Menu, select Add Family.
-2. Fill in the family details:
-
-![New Family](../img/groups/families-1.png)
-
-After saving, you can then add more details for the family:
+To add more detail to a family, navigate to the directory to find the family you are looking for. Click the family name link to access more details for the family:
 
 ![Family Details](../img/groups/families-2.png)
 
 
-You can then add a new person or move an existing person into the family. **Adding a person** to family follows the same process as [adding a person](../administration/looking_after_people.html#adding-people-manually).
+You can then [add a new person](../administration/looking_after_people.html#adding-people-manually), edit family details, or move an existing person into the family.
 
-> <small> Edit Family will take you back to the family details page.</small>
+####Editing a family
 
-To **move a person** into a family, follow these steps:
+You can edit basic details about a family group, to save multiple entry for all the members of your family.
+
+![Editing a Family](../img/groups/families-4.png)
+
+####Move a Person
+
+To move a person into a family, follow these steps:
 1. Select the **Directory** option from the menu.
 2. Locate the family that you'd like to move.
 3. From the families page, select **Move Person**.

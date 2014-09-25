@@ -23,20 +23,15 @@ Hit the Bible Verse icon to share a verse. You'll be prompted to add your verse,
 
 You can also add a comment to the verse, and your friends can comment as well.
 
-### About Friends
-Friends are members of the community that you know and would like to share more of your journey with. To make new friends, lookup the members profile, and send them a friend request. They will recieve an email to confirm your friendship.
-
-Some notes about friends:
-
-* Your friends activity will appear on your timeline, and vice versa.
-* You're automatically friends with anyone in your groups.
-
+### Friends
+Friends are members of the community that you know and would like to share more of your journey with. To make new friends, lookup the members profile, and send them a friend request. They will recieve an email to confirm your friendship
 
 ---
 ### What's next?
 1. Check your [profile](../people/README.html) is complete.
 2. Concerned about privacy? So are we. Set your [privacy](../people/README.html#setting-privacy-options) options to control visibility.
 3. Join a [group](../groups/README.html#joining-a-group)
+4. Make new connections through [friends](../people/friends.html).
 
 ---
 

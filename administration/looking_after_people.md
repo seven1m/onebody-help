@@ -5,7 +5,8 @@
 Unless you have a small congregation, you will probably want to devolve some responsibility for managing people records to others in your church. This chapter provides some help to make this happen.
 
 ### Adding People Manually
-In addition to the generally available fields, the profile supports a number of fields that are designated for adminstrative use.
+
+To add a new person manually, navigate to Directory, New Person. In addition to the generally available fields, the profile supports a number of fields that are designated for adminstrative use.
 
 | Field | Tab |Description |
 | -- | -- | -- |
@@ -41,6 +42,8 @@ Select the person, and then use the green **Undelete selected people** button to
 ![Deleted People](../img/admin/admin-people-8.png)
 
 The Purge button will officially remove the selected person from the database. Select the "Purge family when empty" select box to also delete any empty family records.
+
+Also see related articles: [Families](../groups/families.html).
 
 ### Roles
 
