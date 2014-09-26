@@ -19,6 +19,10 @@ Select Business Directory to view Business listings. The same search criteria ap
 
 #### Printed Directory
 
-Select Printed Directory to have a custom directory pdf sent to your OneBody email address.
+Select Printed Directory to have a custom directory pdf sent to your OneBody email address. You can optionally choose to have photographs added to your directory when you run it. As an example:
 
+![Printed Directory pdf](../img/directories/directories-2.png)
 
+> **info** You can only request a directory once in a 10 minute period.
+
+---
