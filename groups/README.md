@@ -12,7 +12,6 @@ With OneBody Groups, you can:
 You can also report on group activity through the Reporting Dashboard.
 
 
-
 The Groups landing page is your starting point for interacting with groups. From here you can find a group (if your church has many), browse a listing of groups, and view the groups you belong to.
 
 ![Groups Landing Page](../img/groups/groups-1.png)

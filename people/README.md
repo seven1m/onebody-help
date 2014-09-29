@@ -5,7 +5,7 @@ You can access Your Profile by clicking the *Profile* menu option.
 
 ### Your Profile
 
-![Annotated Profile](../img/profile/jim-wright-annotated-profile.png)
+![Annotated Profile](../img/profile/onebody-profile.png)
 
 
 ### Changing your Profile

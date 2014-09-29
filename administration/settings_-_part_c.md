@@ -42,6 +42,15 @@ The external services page allows you to configure links to external websites or
 
 * Hit Reload Settings to force a refresh of all settings for OneBody.
 
+If you're using Mailgun as your email provider, you can choose to simply use this button to create your catch-all route, which is required for setup.
+
+Before you hit the button, you need to have the mailgun api key configured (private, not public) in the [External Services](#external-services) page.
+
+Don't worry if you accidently hit the button again - OneBody checks to make sure a route is not already present.
+
+Related Article: [Mailgun Setup - Point 2](https://github.com/churchio/onebody/wiki/MailgunEmailSetup)
+
+
 
 
 
