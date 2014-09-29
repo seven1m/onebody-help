@@ -6,6 +6,8 @@ All groups require approval from a super administrator before they can accept me
 
 There are four tabs you can complete to create your group.
 
+#### Details
+
 The Details tab records basic data about your group:
 
 ![Create a group](../img/groups/groups-3.png)
@@ -16,6 +18,8 @@ The Details tab records basic data about your group:
 If you create the group, you automatically become an adminstrator for the group.
 
 Youll need to add some members to the group before you can nominate a group leader.
+
+####Meets
 
 The Meets tab to let others know about where the group gathers:
 
@@ -40,11 +44,17 @@ You may have to try different combinations of Line 2, Suburb City and Postcode i
 
 > Its usually not neccesscary to modify Line 1 or Country.
 
+#### Features
+
 The features tab controls which OneBody features you want to implement for your group.
 
 **Email** will allow emails to be sent to and from your group email address. You can also share pictures and record attendance for your particular group.
 
+More detail: [Tracking Attendance](../administration/looking_after_groups.html#tracking-attendance) and [Tasks](../groups/tasks.html).
+
 ![Group-meeting-info](../img/groups/groups-5.png)
+
+####Security
 
 Groups also come with security enabled. The security tab holds three settings:
 
@@ -55,7 +65,7 @@ Groups also come with security enabled. The security tab holds three settings:
 You can also share files with the group by uploading them.
 
 
-That's it! You can now post messages, share pictures, and track attendance for your groups!
+That's it! You can now [post messages](../groups/posting_messages.html) share pictures, create [prayer requests](../groups/prayer_requests.html),and [track attendance](../administration/looking_after_groups.html#tracking-attendance) for your groups!
 
 ![Completed group](../img/groups/groups-6.png)
 

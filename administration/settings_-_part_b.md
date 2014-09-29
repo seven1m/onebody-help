@@ -9,6 +9,7 @@
 | -- | -- |
 | Language | Language for interface elements |
 | Time Zone  | Set the Time Zone of your OneBody installation. |
+| Default Country | Set the Country to be set as a default for new family records.|
 
 
 ## Formats

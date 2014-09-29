@@ -13,7 +13,7 @@ When you first enter the dashboard, you'll see metrics, which notify you of acti
 * Sync Errors - Coming Soon!
 * [Groups Pending Approval](#groups-pending-approval)
 * [Group Membership Requests](#group-membership-requests)
-* Deleted People - Coming Soon!
+* [Deleted People](..//administration/looking_after_people.html#deleting-people)
 
 ### Profile Updates
 

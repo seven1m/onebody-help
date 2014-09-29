@@ -13,17 +13,17 @@ If you're wanting to get OneBody up and running quickly in a non-production envi
 
 
 ### Useful things to know
+
+This help guide is current as at [OneBody version 3.2.0](https://github.com/churchio/onebody/releases/tag/3.2.0).
+
 Throughout the guides, we use the term "member", instead of person, or user. We think the term member more accurately captures our community focus.
 
 We've used some standard terms throughout these guides. You'll find them in the [glossary](GLOSSARY.html).
 
+If you'd like to get a pdf, iPad/iPhone or kindle version of this help, head on over to [Gitbook](https://www.gitbook.io/book/churchio/onebody-help). You can also download and use this help for your own use through [Github](https://github.com/churchio/onebody-help).
+
 If you'd like to contact us, send a message via  [IRC](https://webchat.freenode.net/?channels=#church.io) or our [Google Group](http://groups.google.com/group/churchio). Feedback is always welcome.
 
-Finally, we've assumed that you have:
-* a modern web browser installed (Firefox, Chrome, or Safari)
-* a basic knowledge of how to use the internet
-* the ability to upload and download files using a web browser
-* the ability to use a web browser to search and browse for things
-* an available installation of OneBody
+> **Tag** Thanks for reading!
 
-... because we won't be covering that in these guides.
+<p>
