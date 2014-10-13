@@ -2,7 +2,7 @@
 
 > We've assumed you have installed OneBody by this point and you're interested in setting it up for your church.
 
-OneBody is a complex system, and there are a number of configuration options. This guide aims to get you started with some minimal setup. The [Admin Dashboard](/administration/README.html) section covers more advanced options.
+OneBody is a complex system, and there are a number of configuration options. This guide aims to get you started with some minimal setup. The [Admin Dashboard](../administration/README.html) section covers more advanced options.
 
 In this getting started guide, we'll cover:
 
