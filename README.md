@@ -11,7 +11,6 @@ If you're planning a OneBody production environment for your church, we recommen
 
 If you're wanting to get OneBody up and running quickly in a non-production environment (e.g. for evaluation), head over to [Getting Started - for Administrators](http://church.io/onebody/help/getting_started/for-administrators.html). This will allow you to configure a system you can look at with minimal setup.
 
-
 ### Useful things to know
 
 This help guide is current as at [OneBody version 3.2.0](https://github.com/churchio/onebody/releases/tag/3.2.0).
