@@ -1,14 +1,15 @@
 {
-    "name": "onebody-help",
-    "version": "0.0.0",
-    "description": "",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/x-light/onebody-help.git"
-    },
-    "author": "Justin Lane <justinlane99@hotmail.com>",
-    "dependencies": {
-        "gitbook-plugin-anchors": "0.3.0",
-        "gitbook-plugin-richquotes": "*"
-    }
+  "name": "onebody-help",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-light/onebody-help.git"
+  },
+  "author": "Justin Lane <justinlane99@hotmail.com>",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-anchors": "0.3.0",
+    "gitbook-plugin-richquotes": "*"
+  }
 }
